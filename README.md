@@ -1,5 +1,7 @@
 # 🤖 PoliMillionaire NLP Agent - Multi-Domain Quiz Chatbot
-
+> ⚠️ **Note on Notebook Preview:** 
+> GitHub often fails to render `.ipynb` files with large outputs or custom configurations. If you see a *"Fetching data"* error or the notebook does not load, please click the **Open in Colab** badge below to view and run the notebook directly in Google Colab.
+> 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SufienSadgal/Natural-Language-Processing-project-/blob/main/final%20notebook%20polimillionaire/run-comp.ipynb)
 
 *Note: If GitHub fails to render the notebook preview, [click here to view the notebook online](https://colab.research.google.com/github/SufienSadgal/Natural-Language-Processing-project-/blob/main/final%20notebook%20polimillionaire/run-comp.ipynb).*
