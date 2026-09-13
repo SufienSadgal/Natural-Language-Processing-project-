@@ -1,5 +1,9 @@
 # 🤖 PoliMillionaire NLP Agent - Multi-Domain Quiz Chatbot
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SufienSadgal/Natural-Language-Processing-project-/blob/main/final%20notebook%20polimillionaire/run-comp.ipynb)
+
+*Note: If GitHub fails to render the notebook preview, [click here to view the notebook online](https://colab.research.google.com/github/SufienSadgal/Natural-Language-Processing-project-/blob/main/final%20notebook%20polimillionaire/run-comp.ipynb).*
+
 ## 🎯 Project Objective
 This project involves developing an autonomous conversational agent designed to compete in **"Who wants to be a PoliMillionaire?"**, a timed online quiz game.
 * **Latency Constraints:** The chatbot must process the question, retrieve information, and generate the final answer within a strict 30-second time limit.
