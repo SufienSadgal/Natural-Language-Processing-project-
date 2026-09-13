@@ -1,0 +1,24 @@
+# Core LLM backend — install the CUDA wheel in the notebook
+# (done via: CMAKE_ARGS="-DGGML_CUDA=on" pip install llama-cpp-python)
+# Listed here for reference / CPU-only fallback
+llama-cpp-python>=0.2.90
+
+# Speech / ASR
+faster-whisper>=1.0.3
+
+# HuggingFace model download
+huggingface-hub>=0.23.0
+
+# Millionaire API client (bundled in millionaire_client/)
+requests>=2.31.0
+
+# RAG
+ddgs>=0.5.0
+sentence-transformers>=3.0.0
+trafilatura>=1.12.0
+numpy>=1.26.0
+scipy>=1.13.0
+
+# Misc utilities
+psutil>=5.9.0
+python-dotenv>=1.0.0
